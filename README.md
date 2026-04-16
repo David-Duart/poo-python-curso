@@ -94,6 +94,7 @@ git remote add upstream https://github.com/TU-USUARIO/poo-python-curso.git
 
 ```bash id="9p0c6w"
 git pull upstream main
+git push origin main
 ```
 
 👉 Esto actualiza tu repositorio con los cambios del profesor

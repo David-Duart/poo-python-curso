@@ -163,7 +163,7 @@ Este entorno está diseñado para:
 
 ## 👨‍🏫 Autor
 
-Curso diseñado por el profesor.
+Curso diseñado por el profesor que siempre cree en usted: Arley Fernando Torres Galindo.
 
 ---
 
